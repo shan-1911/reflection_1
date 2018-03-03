@@ -6,7 +6,7 @@ When we are working in a group project and wanted to keep a track of all the cha
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-Because in most of the case the git does not know if the changes made is right or wrong.
+Because in most of the case the git does not know if the changes made is right or wrong.And also it is okay for us to have a control over our content being edited.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
