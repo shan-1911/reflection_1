@@ -15,10 +15,11 @@ The staging area can be made as a temperory space till which we can make all the
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-branch can be very useful when we are working on a totally new idea or a version of the file, though we wanted to keep the old version of the file in order to retrive and use them or show them immediately
-
+branch can be very useful when we are working on a totally new idea or a version of the file, though we wanted to keep the old version of the file in order to retrive and use them or show them immediately. 
 
 How do the diagrams help you visualize the branch structure?
+The diagrams go a long way in helping us recognise the branch or the project.
+
 
 The diagrams clearly help us visualize the branch structure and it helps us out to find the positions where the branches are . It also lets us know where is the branch and what all could be accessed through the branch as the diagram says us more about the parent of the branch.
 
