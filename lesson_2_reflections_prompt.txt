@@ -10,13 +10,25 @@ The staging area is kind of like intermediate buffer between the working directo
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+The staging area can be made as a temperory space till which we can make all the changes that we feel like making , and once when it is done we can check it out using the diff command and if we feel that it is necessary then we can add. we can again double check it with the diff --staged command to check if it is really needed and then it is commited later .
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+branch can be very useful when we are working on a totally new idea or a version of the file, though we wanted to keep the old version of the file in order to retrive and use them or show them immediately
+
+
 How do the diagrams help you visualize the branch structure?
+
+The diagrams clearly help us visualize the branch structure and it helps us out to find the positions where the branches are . It also lets us know where is the branch and what all could be accessed through the branch as the diagram says us more about the parent of the branch.
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of it is the added feature of the game with a new feature that is working fine and which should be a part of the game as described earlier.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+The git automatically merging things saves us a lot of space and time , while the manual commits are also necessary in the places where they are not very sure about how to combine 2 or more changes and which one is better.
