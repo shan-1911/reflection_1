@@ -11,19 +11,19 @@ Because in most of the case the git does not know if the changes made is right o
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    forks are the repositories that have been taken from someother person directly to our remote repository. The clones are the respository from the remote (i.e git hub).The branches are the two different modifications of the existing copy .
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It helps us to differentiate the locally made changes from the one newly updated in the github repository .It helps us keep a track of both the cahnges in the github repository and the local repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    without git hub we would send emails and work together in the office intranets.. That would leave us with multiple copies of the projects with same or different names on it.It would obviously make the job more tougher than using git hub.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    when each person in the project has a different idea and they arent able to settle down on a common or a similar answer then each can create a branch and can work on their own to prove their supremacy over the others . Then when people see the real advantages in someones work then can merge that particular branch to the master .
